@@ -1,0 +1,2038 @@
+
+Epoch 1/5:   2%|▎         | 1/40 [00:01<00:55,  1.42s/img, loss (batch)=1.35]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 1/5:  12%|█▎        | 5/40 [00:05<00:34,  1.01img/s, loss (batch)=1.09]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 1/5:  18%|█▊        | 7/40 [00:07<00:32,  1.03img/s, loss (batch)=1.14]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 1/5:  22%|██▎       | 9/40 [00:09<00:29,  1.04img/s, loss (batch)=1.07]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 1/5:  32%|███▎      | 13/40 [00:12<00:25,  1.05img/s, loss (batch)=0.967]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 1/5:  40%|████      | 16/40 [00:15<00:22,  1.05img/s, loss (batch)=0.984]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 1/5:  50%|█████     | 20/40 [00:19<00:19,  1.05img/s, loss (batch)=0.982]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 1/5:  60%|██████    | 24/40 [00:23<00:15,  1.05img/s, loss (batch)=1.02]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 1/5:  65%|██████▌   | 26/40 [00:25<00:13,  1.05img/s, loss (batch)=1.01]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+
+
+Epoch 1/5:  78%|███████▊  | 31/40 [00:29<00:08,  1.05img/s, loss (batch)=0.948]
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 1/5:  85%|████████▌ | 34/40 [00:32<00:05,  1.05img/s, loss (batch)=0.957]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 1/5:  98%|█████████▊| 39/40 [00:37<00:00,  1.05img/s, loss (batch)=0.905]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+Epoch 1/5: 100%|██████████| 40/40 [00:38<00:00,  1.04img/s, loss (batch)=0.915]
+Epoch 2/5:   2%|▎         | 1/40 [00:00<00:36,  1.06img/s, loss (batch)=1.04]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 2/5:  12%|█▎        | 5/40 [00:04<00:33,  1.05img/s, loss (batch)=0.951]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 2/5:  18%|█▊        | 7/40 [00:06<00:31,  1.05img/s, loss (batch)=0.891]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 2/5:  22%|██▎       | 9/40 [00:08<00:29,  1.05img/s, loss (batch)=0.89]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 2/5:  35%|███▌      | 14/40 [00:13<00:24,  1.04img/s, loss (batch)=0.869]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 2/5:  40%|████      | 16/40 [00:15<00:22,  1.05img/s, loss (batch)=0.868]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 2/5:  50%|█████     | 20/40 [00:19<00:19,  1.05img/s, loss (batch)=0.836]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 2/5:  55%|█████▌    | 22/40 [00:20<00:17,  1.05img/s, loss (batch)=0.861]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 2/5:  60%|██████    | 24/40 [00:22<00:15,  1.05img/s, loss (batch)=0.929]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 2/5:  68%|██████▊   | 27/40 [00:25<00:12,  1.05img/s, loss (batch)=0.862]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 2/5:  75%|███████▌  | 30/40 [00:28<00:09,  1.05img/s, loss (batch)=0.832]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 2/5:  82%|████████▎ | 33/40 [00:31<00:06,  1.05img/s, loss (batch)=0.836]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 2/5:  92%|█████████▎| 37/40 [00:35<00:02,  1.05img/s, loss (batch)=0.807]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 2/5: 100%|██████████| 40/40 [00:38<00:00,  1.05img/s, loss (batch)=0.872]
+Epoch 3/5:   2%|▎         | 1/40 [00:00<00:36,  1.06img/s, loss (batch)=0.837]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 3/5:   8%|▊         | 3/40 [00:02<00:35,  1.05img/s, loss (batch)=0.875]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 3/5:  20%|██        | 8/40 [00:07<00:30,  1.05img/s, loss (batch)=0.853]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 3/5:  25%|██▌       | 10/40 [00:09<00:28,  1.05img/s, loss (batch)=0.868]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 3/5:  35%|███▌      | 14/40 [00:13<00:24,  1.05img/s, loss (batch)=0.863]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 3/5:  40%|████      | 16/40 [00:15<00:22,  1.05img/s, loss (batch)=0.825]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 3/5:  50%|█████     | 20/40 [00:19<00:19,  1.05img/s, loss (batch)=0.856]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 3/5:  55%|█████▌    | 22/40 [00:20<00:17,  1.05img/s, loss (batch)=0.855]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 3/5:  65%|██████▌   | 26/40 [00:24<00:13,  1.05img/s, loss (batch)=0.807]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 3/5:  70%|███████   | 28/40 [00:26<00:11,  1.05img/s, loss (batch)=0.874]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 3/5:  82%|████████▎ | 33/40 [00:31<00:06,  1.03img/s, loss (batch)=0.812]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 3/5:  92%|█████████▎| 37/40 [00:35<00:02,  1.04img/s, loss (batch)=0.811]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 3/5: 100%|██████████| 40/40 [00:38<00:00,  1.04img/s, loss (batch)=0.874]
+Epoch 4/5:   2%|▎         | 1/40 [00:00<00:36,  1.06img/s, loss (batch)=0.862]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 4/5:  12%|█▎        | 5/40 [00:04<00:33,  1.03img/s, loss (batch)=0.84]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 4/5:  18%|█▊        | 7/40 [00:06<00:32,  1.02img/s, loss (batch)=0.898]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 4/5:  30%|███       | 12/40 [00:11<00:27,  1.02img/s, loss (batch)=0.833]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 4/5:  38%|███▊      | 15/40 [00:14<00:24,  1.04img/s, loss (batch)=0.85]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 4/5:  50%|█████     | 20/40 [00:19<00:19,  1.05img/s, loss (batch)=0.861]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 4/5:  55%|█████▌    | 22/40 [00:21<00:17,  1.04img/s, loss (batch)=0.871]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 4/5:  60%|██████    | 24/40 [00:23<00:15,  1.03img/s, loss (batch)=0.816]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 4/5:  70%|███████   | 28/40 [00:27<00:11,  1.02img/s, loss (batch)=0.85]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 4/5:  80%|████████  | 32/40 [00:31<00:07,  1.01img/s, loss (batch)=0.819]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 4/5:  90%|█████████ | 36/40 [00:35<00:03,  1.01img/s, loss (batch)=0.891]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 4/5:  95%|█████████▌| 38/40 [00:37<00:01,  1.03img/s, loss (batch)=0.884]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+Epoch 4/5: 100%|██████████| 40/40 [00:38<00:00,  1.03img/s, loss (batch)=0.854]
+
+Epoch 5/5:   8%|▊         | 3/40 [00:02<00:35,  1.05img/s, loss (batch)=0.803]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 5/5:  12%|█▎        | 5/40 [00:04<00:33,  1.05img/s, loss (batch)=0.878]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 5/5:  18%|█▊        | 7/40 [00:06<00:31,  1.05img/s, loss (batch)=0.83]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 5/5:  28%|██▊       | 11/40 [00:10<00:27,  1.04img/s, loss (batch)=0.846]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 5/5:  38%|███▊      | 15/40 [00:14<00:23,  1.04img/s, loss (batch)=0.816]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 5/5:  42%|████▎     | 17/40 [00:16<00:22,  1.04img/s, loss (batch)=0.812]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 5/5:  48%|████▊     | 19/40 [00:18<00:20,  1.05img/s, loss (batch)=0.836]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 5/5:  52%|█████▎    | 21/40 [00:20<00:18,  1.05img/s, loss (batch)=0.842]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 5/5:  65%|██████▌   | 26/40 [00:24<00:13,  1.03img/s, loss (batch)=0.817]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 5/5:  75%|███████▌  | 30/40 [00:28<00:09,  1.04img/s, loss (batch)=0.834]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 5/5:  85%|████████▌ | 34/40 [00:32<00:05,  1.04img/s, loss (batch)=0.828]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+
+Epoch 5/5:  95%|█████████▌| 38/40 [00:36<00:01,  1.04img/s, loss (batch)=0.846]
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+dice_loss:input torch.Size([1, 1, 600, 250])
+images_shape torch.Size([1, 3, 600, 250])
+true_masks_shape torch.Size([1, 600, 250, 1])
+masks_permute torch.Size([1, 1, 600, 250])
+masks_pred torch.Size([1, 1, 600, 250])
+dice_loss:target torch.Size([1, 1, 600, 250])
+
+Epoch 5/5: 100%|██████████| 40/40 [00:38<00:00,  1.04img/s, loss (batch)=0.859]
+[4mReloaded modules[24m: tools.data_loading, tools.dice_score, evaluate, unet_model, unet_parts
+[4mReloaded modules[24m: tools.data_loading, unet_model, unet_parts
+[4mReloaded modules[24m: tools.data_loading, unet_model, unet_parts
+[4mReloaded modules[24m: tools.data_loading, unet_model, unet_parts
+[4mReloaded modules[24m: tools.data_loading, unet_model, unet_parts
+[4mReloaded modules[24m: tools.data_loading, unet_model, unet_parts
+[4mReloaded modules[24m: tools.data_loading, unet_model, unet_parts
+[4mReloaded modules[24m: tools.data_loading, unet_model, unet_parts
+[4mReloaded modules[24m: tools.data_loading, unet_model, unet_parts
+[4mReloaded modules[24m: tools.data_loading, unet_model, unet_parts
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 213.1135,  299.6689,  312.0088,  362.9549],
+        [ 213.9594,  366.3933,  315.8848,  429.5506],
+        [ 207.3333,  636.4323,  335.7132,  723.4050],
+        [ 210.7843,  563.2442,  331.8842,  640.6841],
+        [ 211.6192,  432.6620,  318.8135,  496.5958],
+        [ 209.8655,  717.0809,  344.4965,  802.8201],
+        [ 209.8117,  495.1311,  324.2787,  567.0838],
+        [ 206.9733,  802.8976,  340.6685,  892.2683],
+        [ 192.4714,  894.9670,  327.7504,  982.4521],
+        [ 225.1193,  181.4192,  312.8552,  237.9145],
+        [ 219.7087,  238.8284,  309.8193,  297.1357],
+        [ 184.7453,  986.8323,  316.9813, 1080.8593],
+        [ 227.0248,  123.9528,  317.0762,  177.2850],
+        [ 173.3059, 1082.8696,  308.7848, 1181.0598],
+        [ 231.4033,   20.8982,  323.6652,   71.1094],
+        [ 229.3829,   74.7500,  318.2450,  116.9241],
+        [ 208.3211,  586.2198,  337.3849,  808.9819],
+        [ 188.5780,  839.9771,  336.1764, 1006.9847],
+        [ 209.6166,  678.3361,  343.6136,  854.0510],
+        [ 231.6016,   47.2089,  323.7436,   89.6971],
+        [ 187.1837,  886.0698,  327.3261, 1078.6704]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9999, 0.9998, 0.9998, 0.9998, 0.9997, 0.9997, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9994, 0.9968, 0.9964, 0.9883, 0.4487, 0.2663,
+        0.2193, 0.1840, 0.1265], device='cuda:0')}]
+21
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+Warning: Cannot change to a different GUI toolkit: qt4. Using qt5 instead.
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+[{'boxes': tensor([[ 184.8696,  405.5278,  309.6547,  467.7010],
+        [ 178.7522,  903.1263,  329.1611,  987.9085],
+        [ 207.9199,  167.2337,  302.3066,  231.5978],
+        [ 191.7774,  347.8761,  304.3752,  407.8943],
+        [ 195.8617,  291.6230,  303.3409,  351.4111],
+        [ 172.6210,  994.7772,  338.9679, 1080.7551],
+        [ 200.8432,  233.5710,  303.7458,  293.3545],
+        [ 175.3695,  466.0062,  311.2602,  532.9803],
+        [ 207.1172,  109.3906,  306.1054,  164.7738],
+        [ 174.8786,  527.9814,  313.2606,  603.6851],
+        [ 182.5987,  816.2373,  322.2301,  893.1214],
+        [ 179.3495,  596.1036,  323.2168,  671.6542],
+        [ 188.7312,  737.8669,  321.3628,  813.3018],
+        [ 176.9825,  671.8510,  329.4547,  745.3095],
+        [ 204.4193,   59.5555,  304.6537,  111.5151],
+        [ 202.0755,   15.8257,  308.2706,   59.3573],
+        [ 177.4917,  644.0856,  322.5556,  822.9178],
+        [ 154.4222, 1075.5339,  367.2436, 1177.6929],
+        [ 176.0743,  523.3730,  315.6133,  687.2773],
+        [ 167.9481,  569.7900,  322.9793,  744.4588],
+        [ 205.3131,   24.3797,  308.0003,   89.3301],
+        [ 181.1980,  364.7879,  307.0088,  521.3004],
+        [ 194.3287,  264.5530,  302.2545,  436.4559],
+        [ 176.9715,  914.1915,  333.4273, 1105.1412],
+        [ 196.9071,  227.8354,  299.3922,  354.7454],
+        [ 173.7694,  791.5948,  331.2422,  970.2363],
+        [ 197.4352,   60.4997,  304.2492,  229.2480],
+        [ 207.3533,   79.1566,  309.4003,  137.0546]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1, 1, 1, 1], device='cuda:0'), 'scores': tensor([0.9998, 0.9998, 0.9998, 0.9998, 0.9997, 0.9997, 0.9997, 0.9997, 0.9996,
+        0.9996, 0.9996, 0.9996, 0.9995, 0.9994, 0.9987, 0.9986, 0.9635, 0.8728,
+        0.7408, 0.6407, 0.5536, 0.2977, 0.2334, 0.1920, 0.1608, 0.1401, 0.1244,
+        0.0540], device='cuda:0')}]
+28
+[{'boxes': tensor([[155.3148,  21.1389, 265.0266,  77.7628],
+        [158.7052, 305.0117, 259.7285, 362.3799],
+        [157.7384, 246.5973, 254.3864, 300.6510],
+        [160.1420, 368.9094, 265.9674, 424.7310],
+        [156.3285,  88.5285, 261.6401, 135.8653],
+        [159.8969, 197.2922, 250.5857, 239.8418],
+        [162.1227, 141.0455, 255.8008, 183.5724],
+        [165.0086,  81.3885, 259.6415, 186.3316],
+        [167.5015, 110.9835, 251.2740, 235.3266]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0'), 'scores': tensor([0.9998, 0.9996, 0.9996, 0.9992, 0.9990, 0.9968, 0.9927, 0.2774, 0.0575],
+       device='cuda:0')}]
+9
+[{'boxes': tensor([[ 159.9164,  483.4971,  274.1502,  540.2529],
+        [ 178.2323,  116.4055,  283.5949,  173.8431],
+        [ 159.8171,  682.8544,  283.2024,  756.5338],
+        [ 166.7724,  417.1336,  272.0552,  478.0994],
+        [ 154.9368,  547.2673,  284.7322,  609.0789],
+        [ 162.2152,  611.0406,  285.7870,  683.4628],
+        [ 179.0201,  173.5848,  284.7012,  236.9253],
+        [ 173.3439,  357.7812,  269.3392,  416.0428],
+        [ 180.4470,   62.0421,  286.6484,  109.1002],
+        [ 168.4048,  834.7086,  295.2322,  918.9059],
+        [ 159.7299,  760.3008,  288.8938,  838.4268],
+        [ 173.9387,  299.9186,  269.5814,  358.6682],
+        [ 175.7149,  238.1119,  279.4367,  301.7192],
+        [ 185.1660,   13.3013,  295.3314,   57.8004],
+        [ 176.5048,  916.1331,  302.0261, 1001.4085],
+        [ 162.4911,  527.0613,  275.0301,  741.7191],
+        [ 202.0040, 1087.4984,  317.4938, 1175.2314],
+        [ 167.2381,  769.6685,  292.2187,  957.7350],
+        [ 182.5010,    0.0000,  290.2591,  111.1062],
+        [ 182.1118,   48.6965,  286.2829,  170.0873]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9998, 0.9998, 0.9998, 0.9997, 0.9997, 0.9997, 0.9997, 0.9995, 0.9995,
+        0.9995, 0.9995, 0.9995, 0.9994, 0.9988, 0.9848, 0.7978, 0.6357, 0.3967,
+        0.3318, 0.0805], device='cuda:0')}]
+20
+[{'boxes': tensor([[ 168.6689,  242.7528,  267.1881,  300.8456],
+        [ 137.0544,  548.9427,  266.1744,  619.6803],
+        [ 165.7466,  305.2044,  259.0198,  359.8665],
+        [ 169.7559,  184.4420,  267.4863,  240.4641],
+        [ 178.6815,   25.9777,  289.4354,   70.4296],
+        [ 155.2434,  365.4916,  252.3316,  414.7296],
+        [ 143.7063,  490.3729,  261.1847,  544.0986],
+        [ 173.0192,  130.3186,  272.1877,  181.9770],
+        [ 176.6581,   82.9797,  281.4911,  125.7254],
+        [ 144.6955,  427.9287,  258.0060,  481.6072],
+        [ 162.8641,  836.7097,  281.0698,  911.8919],
+        [ 144.8008,  616.3172,  268.0470,  691.5095],
+        [ 174.8090,   43.4327,  283.5960,  131.3472],
+        [ 174.0885,  923.9600,  294.4583,  996.2772],
+        [ 174.5750,   47.4254,  290.5596,   83.5509],
+        [ 150.0604,  764.4746,  269.9747,  834.5490],
+        [ 144.5404,  434.3048,  251.0522,  546.9479],
+        [ 208.3718,  996.9665,  319.9297, 1078.3269],
+        [ 175.0820,   65.3917,  286.4660,  103.8586],
+        [ 173.5907,  223.0144,  252.2069,  385.5756],
+        [ 137.7821,  530.6799,  266.0301,  701.2419],
+        [ 174.9870,  108.4565,  275.2503,  146.1218],
+        [ 167.5176,   95.4372,  277.6431,  226.2572],
+        [ 158.5591,  318.7080,  251.9217,  409.6640],
+        [ 166.7630,  149.8315,  270.0527,  266.3612]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+        1], device='cuda:0'), 'scores': tensor([0.9997, 0.9997, 0.9994, 0.9992, 0.9988, 0.9979, 0.9975, 0.9975, 0.9969,
+        0.9950, 0.9362, 0.8630, 0.8570, 0.8007, 0.4907, 0.4466, 0.2427, 0.2225,
+        0.2162, 0.1837, 0.1046, 0.0651, 0.0603, 0.0591, 0.0500],
+       device='cuda:0')}]
+25
+[{'boxes': tensor([[206.4819, 312.7375, 308.8479, 389.0619],
+        [265.8842, 655.7374, 373.2654, 731.6006],
+        [194.1358, 251.2357, 286.8680, 316.8238],
+        [169.6714,  17.7586, 271.6555,  75.1094],
+        [266.3628, 733.2397, 378.3990, 816.2744],
+        [177.6792,  82.0615, 271.5043, 137.8117],
+        [182.2444, 192.6257, 271.9865, 255.8826],
+        [214.2999, 383.7005, 320.5444, 460.1529],
+        [179.7260, 141.3323, 269.1874, 188.6298],
+        [263.9130, 813.9803, 371.9457, 910.1215],
+        [244.9646, 523.4133, 346.6749, 593.1094],
+        [255.3994, 583.3352, 352.8413, 651.4356],
+        [237.8801, 442.1857, 331.4388, 525.1854],
+        [258.1869, 519.9502, 344.6703, 655.5986],
+        [180.9970,  11.2948, 262.1634, 152.2433],
+        [189.8617, 193.0125, 279.7677, 324.7865],
+        [227.4477, 358.8298, 319.7547, 528.3259],
+        [175.1669,  77.8532, 270.4312, 200.0573]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0'), 'scores': tensor([0.9998, 0.9998, 0.9998, 0.9998, 0.9996, 0.9994, 0.9994, 0.9991, 0.9985,
+        0.9837, 0.9827, 0.9702, 0.6738, 0.3358, 0.2198, 0.1588, 0.1405, 0.0879],
+       device='cuda:0')}]
+18
+[{'boxes': tensor([[ 197.5816,  329.6359,  301.1986,  395.7963],
+        [ 199.9819,   31.9232,  304.9150,   88.4973],
+        [ 176.4834,  584.2421,  296.2687,  657.7553],
+        [ 178.8237,  522.9390,  299.1531,  587.9732],
+        [ 201.6031,   89.6912,  301.2992,  145.8593],
+        [ 198.5938,  400.5733,  293.1213,  452.3365],
+        [ 203.9527,  208.6682,  304.1973,  268.1293],
+        [ 206.8753,  145.5235,  298.3653,  200.1897],
+        [ 187.2616,  461.5732,  299.4601,  516.4868],
+        [ 202.3926,  265.4309,  301.3116,  325.0697],
+        [ 171.6283,  661.1832,  297.4415,  738.7202],
+        [ 183.3690,  987.1509,  312.8163, 1075.5999],
+        [ 199.6455,  895.2571,  300.2625,  984.7084],
+        [ 172.7762,  737.5022,  271.0562,  820.2997],
+        [ 210.8120,   18.7991,  284.8183,  146.8283],
+        [ 186.9077, 1088.6989,  316.8134, 1156.7612],
+        [ 184.3735,  443.0121,  295.3906,  608.2834]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0'), 'scores': tensor([0.9999, 0.9998, 0.9997, 0.9997, 0.9996, 0.9996, 0.9993, 0.9992, 0.9987,
+        0.9985, 0.9889, 0.9870, 0.3265, 0.2447, 0.1088, 0.0874, 0.0864],
+       device='cuda:0')}]
+17
+[{'boxes': tensor([[ 235.9616,  327.2616,  347.2786,  395.0017],
+        [ 229.8891,   86.7597,  331.5105,  144.6065],
+        [ 233.0041,  144.3453,  335.7905,  201.6709],
+        [ 229.3816,   23.6074,  330.2980,   84.9695],
+        [ 236.3745,  205.2282,  335.4376,  263.0807],
+        [ 235.6670,  265.5546,  343.7525,  326.2706],
+        [ 238.5695,  396.5071,  346.3245,  461.2646],
+        [ 180.7235,  989.3936,  322.5396, 1074.8668],
+        [ 201.4280,  894.5739,  311.0169,  982.7516],
+        [ 207.5398,  811.9084,  314.6386,  899.1741],
+        [ 235.2905,  459.4948,  336.8645,  532.3214]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9991, 0.9981, 0.9875,
+        0.9681, 0.2227], device='cuda:0')}]
+11
+[{'boxes': tensor([[ 222.1640,  729.9343,  352.6142,  814.8276],
+        [ 212.4174,  585.7817,  328.3722,  656.4154],
+        [ 164.0304,   24.2952,  272.1406,   82.0833],
+        [ 191.8139,  328.1568,  294.8864,  392.6696],
+        [ 163.4883,   86.2121,  266.5140,  136.4615],
+        [ 220.7739,  658.0928,  341.9255,  732.5265],
+        [ 171.7738,  145.3639,  269.6611,  197.4369],
+        [ 202.0057,  394.8669,  299.2741,  459.0836],
+        [ 212.8871,  520.4662,  320.3819,  582.0725],
+        [ 180.2774,  202.4710,  276.3428,  267.4610],
+        [ 220.2727,  814.9862,  349.4617,  898.7719],
+        [ 210.1856,  461.6728,  308.7635,  515.2184],
+        [ 218.2182,  994.6075,  351.5233, 1080.3052],
+        [ 223.8235,  903.7834,  350.7672,  987.4524],
+        [ 191.4142,  264.4032,  281.8201,  321.2000],
+        [ 201.5567, 1096.2620,  344.6785, 1170.3199],
+        [ 222.2161,  794.1170,  351.0551,  987.3901],
+        [ 198.3869,  272.9958,  222.8933,  310.7488]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9999, 0.9999, 0.9999, 0.9999, 0.9998, 0.9998, 0.9997,
+        0.9996, 0.9996, 0.9995, 0.9993, 0.9992, 0.9987, 0.9925, 0.3132, 0.0742],
+       device='cuda:0')}]
+18
+[{'boxes': tensor([[131.4618, 353.1949, 240.8570, 418.5663],
+        [141.7344, 286.7931, 238.4716, 346.8264],
+        [128.3704, 423.1560, 242.4377, 490.1180],
+        [152.3912, 168.0473, 252.6859, 228.4005],
+        [149.3944, 226.9333, 240.9069, 280.4154],
+        [170.2592,  96.3955, 244.6151, 158.1166],
+        [155.8173, 156.2613, 233.3044, 297.2757],
+        [147.6542, 217.1817, 239.2580, 357.4002]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9995, 0.9991, 0.9988, 0.5878, 0.4205, 0.2635],
+       device='cuda:0')}]
+8
+[{'boxes': tensor([[ 191.3841,  456.7538,  312.5346,  525.4731],
+        [ 187.2454,  316.0449,  299.7181,  385.8813],
+        [ 163.8133,   23.5880,  269.3766,   78.1549],
+        [ 187.7244,  383.0437,  306.7546,  455.6645],
+        [ 185.9176,  255.1863,  288.4094,  314.4875],
+        [ 204.1074,  731.8273,  334.4465,  810.5111],
+        [ 201.3392,  657.7498,  334.0411,  733.2835],
+        [ 200.5411,  897.6829,  325.9636,  985.2410],
+        [ 195.2897,  992.8672,  332.2691, 1081.7401],
+        [ 203.3539,  809.3741,  326.1951,  896.2790],
+        [ 169.3357,   83.5708,  271.3727,  137.4274],
+        [ 200.6123,  528.9186,  320.7921,  589.6835],
+        [ 206.6934,  587.9945,  324.6478,  655.3298],
+        [ 184.0125,  191.9513,  281.7363,  250.0523],
+        [ 179.9445,  139.3025,  276.9710,  191.0171],
+        [ 189.3217, 1099.9186,  341.1940, 1188.2723],
+        [ 199.5947,  696.5413,  332.9036,  901.2484],
+        [ 190.0451,  345.0802,  302.7940,  520.0914],
+        [ 195.4312,  849.6479,  332.1117, 1010.4757],
+        [ 200.8396,  902.5913,  325.0343, 1112.8391],
+        [ 209.5970,  535.8192,  322.6936,  699.4765],
+        [ 193.0008,  508.4088,  318.5623,  643.4667],
+        [ 193.3800,  768.5412,  329.2549,  964.9694],
+        [ 188.3523,  199.2782,  282.5951,  322.1635]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9998, 0.9998, 0.9998, 0.9997, 0.9997,
+        0.9996, 0.9996, 0.9995, 0.9992, 0.9992, 0.9989, 0.9985, 0.7655, 0.5475,
+        0.4991, 0.3312, 0.2309, 0.1545, 0.1035, 0.0742], device='cuda:0')}]
+24
+[{'boxes': tensor([[ 213.1135,  299.6689,  312.0088,  362.9549],
+        [ 213.9594,  366.3933,  315.8848,  429.5506],
+        [ 207.3333,  636.4323,  335.7132,  723.4050],
+        [ 210.7843,  563.2442,  331.8842,  640.6841],
+        [ 211.6192,  432.6620,  318.8135,  496.5958],
+        [ 209.8655,  717.0809,  344.4965,  802.8201],
+        [ 209.8117,  495.1311,  324.2787,  567.0838],
+        [ 206.9733,  802.8976,  340.6685,  892.2683],
+        [ 192.4714,  894.9670,  327.7504,  982.4521],
+        [ 225.1193,  181.4192,  312.8552,  237.9145],
+        [ 219.7087,  238.8284,  309.8193,  297.1357],
+        [ 184.7453,  986.8323,  316.9813, 1080.8593],
+        [ 227.0248,  123.9528,  317.0762,  177.2850],
+        [ 173.3059, 1082.8696,  308.7848, 1181.0598],
+        [ 231.4033,   20.8982,  323.6652,   71.1094],
+        [ 229.3829,   74.7500,  318.2450,  116.9241],
+        [ 208.3211,  586.2198,  337.3849,  808.9819],
+        [ 188.5780,  839.9771,  336.1764, 1006.9847],
+        [ 209.6166,  678.3361,  343.6136,  854.0510],
+        [ 231.6016,   47.2089,  323.7436,   89.6971],
+        [ 187.1837,  886.0698,  327.3261, 1078.6704]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9999, 0.9998, 0.9998, 0.9998, 0.9997, 0.9997, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9994, 0.9968, 0.9964, 0.9883, 0.4487, 0.2663,
+        0.2193, 0.1840, 0.1265], device='cuda:0')}]
+21
+[{'boxes': tensor([[ 197.9075,  643.1159,  319.5728,  720.3964],
+        [ 215.4209,  303.0696,  310.0845,  368.1375],
+        [ 219.7824,  236.8831,  312.7019,  305.6728],
+        [ 198.4205,  496.2101,  317.6262,  569.1042],
+        [ 222.9114,  174.4005,  315.0441,  238.5652],
+        [ 201.0269,  428.6047,  313.2926,  494.5699],
+        [ 199.1267,  569.5259,  320.5982,  641.0880],
+        [ 206.4122,  370.6920,  313.5870,  427.2340],
+        [ 200.7045,  722.5334,  321.4731,  810.8420],
+        [ 189.9044,  904.1777,  321.0262,  986.7410],
+        [ 197.8404,  805.4813,  322.5492,  900.9287],
+        [ 227.9947,  120.9430,  315.4336,  174.8654],
+        [ 186.6430,  996.0737,  318.1479, 1082.6433],
+        [ 181.4033, 1095.0609,  315.9013, 1188.0229],
+        [ 228.2577,   23.5795,  321.0171,   71.9664],
+        [ 227.3541,   75.8443,  317.8673,  112.8232],
+        [ 196.6403,  593.9196,  320.1155,  824.1784],
+        [ 185.2458,  881.4044,  319.0984, 1072.6727],
+        [ 195.7849,  451.1902,  315.1935,  629.2347],
+        [ 195.2502,  542.7742,  319.5560,  697.4564],
+        [ 228.5233,   36.5247,  321.9342,   96.7579]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9999, 0.9999, 0.9998, 0.9998, 0.9998, 0.9998, 0.9997,
+        0.9997, 0.9997, 0.9996, 0.9995, 0.9951, 0.9877, 0.9747, 0.6394, 0.3810,
+        0.1200, 0.0949, 0.0826], device='cuda:0')}]
+21
+[{'boxes': tensor([[ 188.1952,  261.2403,  298.3681,  322.4138],
+        [ 161.6443,   85.8995,  269.1423,  142.6780],
+        [ 202.5792,  508.5940,  325.6831,  573.8057],
+        [ 205.5099,  573.9480,  330.9495,  643.8691],
+        [ 203.9241,  437.4714,  322.0665,  503.3673],
+        [ 179.7025,  145.4264,  277.1909,  204.0723],
+        [ 201.4786,  645.8552,  335.7553,  728.3745],
+        [ 183.6540,  202.0339,  281.9952,  258.3380],
+        [ 206.8591,  722.9196,  338.6485,  804.5403],
+        [ 198.3617,  324.7294,  301.4661,  384.1676],
+        [ 179.5138,  994.0420,  321.8721, 1081.0416],
+        [ 150.6984,   34.8836,  261.0876,   80.8948],
+        [ 205.4450,  809.5833,  331.6976,  895.6392],
+        [ 187.8069,  899.0457,  319.9467,  987.3695],
+        [ 205.8152,  379.7191,  312.9769,  434.0006],
+        [ 169.1794, 1097.5016,  331.6339, 1176.5049],
+        [ 207.3520,  652.4913,  335.9431,  863.2469],
+        [ 195.1152,  811.2728,  324.6295, 1013.8408],
+        [ 199.8404,  511.2209,  330.2231,  726.8484],
+        [ 195.5346,  212.9135,  226.6908,  247.4948]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9998, 0.9998, 0.9997, 0.9997, 0.9997, 0.9997, 0.9997, 0.9996,
+        0.9996, 0.9994, 0.9991, 0.9991, 0.9990, 0.9979, 0.9920, 0.7552, 0.3711,
+        0.2619, 0.0727], device='cuda:0')}]
+20
+[{'boxes': tensor([[ 228.4375,  371.5298,  328.9712,  429.8983],
+        [ 224.2962,  432.2275,  326.9339,  490.1068],
+        [ 219.4516,  489.5671,  331.1615,  562.5343],
+        [ 207.4963,  558.1917,  332.8970,  635.6071],
+        [ 190.5347,  637.7280,  322.9623,  714.9169],
+        [ 233.3521,  177.3186,  329.1973,  236.6087],
+        [ 173.8524,  713.1109,  313.4579,  797.7211],
+        [ 230.8059,  239.3586,  323.5495,  302.3092],
+        [ 238.1736,  124.5683,  331.7701,  169.8608],
+        [ 226.9609,  310.2079,  324.6265,  362.5823],
+        [ 171.7749,  792.0216,  298.0661,  873.5754],
+        [ 159.8373,  884.1992,  289.2698,  969.2833],
+        [ 240.7108,   30.5718,  348.2119,   75.5502],
+        [ 168.5254,  982.4298,  292.9595, 1073.7312],
+        [ 241.7123,   74.7730,  341.1304,  110.8501],
+        [ 242.7803,   51.3621,  344.4623,   94.0688],
+        [ 199.2561,  540.2671,  324.8736,  718.8550],
+        [ 159.5268,  750.0544,  296.4330,  954.7595],
+        [ 242.0082,   94.2381,  338.6742,  124.1253],
+        [ 240.7089,  116.4494,  336.8215,  151.5073],
+        [ 235.0979,  109.5411,  333.6861,  219.2586]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9999, 0.9998, 0.9998, 0.9998, 0.9997, 0.9994, 0.9993,
+        0.9992, 0.9986, 0.9961, 0.9893, 0.9886, 0.9725, 0.8747, 0.5308, 0.2541,
+        0.1281, 0.0749, 0.0500], device='cuda:0')}]
+21
+[{'boxes': tensor([[ 201.0330,  400.5246,  314.4380,  464.7758],
+        [ 204.4639,  142.8194,  304.7023,  204.4233],
+        [ 203.2820,  335.0646,  309.5527,  395.7001],
+        [ 204.5749,   86.2395,  300.0652,  141.3319],
+        [ 200.6118,  272.3957,  311.0065,  331.7241],
+        [ 197.2691,  466.7431,  312.9662,  534.4193],
+        [ 207.8620,   22.4417,  300.3326,   82.8276],
+        [ 204.5390,  204.6901,  307.9650,  268.2643],
+        [ 179.5634,  997.3878,  328.8209, 1079.9913],
+        [ 191.2817,  899.3611,  308.9060,  989.0585],
+        [ 191.6493,  834.8517,  311.6878,  902.6517],
+        [ 190.1629,  760.0881,  307.6648,  826.0864],
+        [ 204.7102,  532.6913,  315.4124,  601.7619],
+        [ 170.6652, 1085.7216,  333.6973, 1184.0801],
+        [ 195.0443,  607.3145,  323.1957,  681.8920],
+        [ 196.7022,  435.9980,  318.9804,  590.0822],
+        [ 203.8097,  660.8223,  304.4983,  749.1566],
+        [ 241.3846,  158.3814,  293.9845,  185.6460],
+        [ 197.6731,  317.3320,  314.5128,  458.8371],
+        [ 206.7482,   71.6686,  302.8763,  218.3721]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9998, 0.9998, 0.9997, 0.9997, 0.9996, 0.9996, 0.9996, 0.9995,
+        0.9988, 0.9978, 0.9972, 0.9952, 0.9948, 0.8994, 0.4907, 0.2231, 0.1552,
+        0.0562, 0.0542], device='cuda:0')}]
+20
+[{'boxes': tensor([[ 207.1315,  606.1017,  326.5247,  674.9908],
+        [ 204.0374,  542.0285,  316.6913,  605.1246],
+        [ 212.4141,  673.8983,  326.0875,  754.4600],
+        [ 188.8802,  305.6019,  280.6476,  362.3444],
+        [ 198.0507,  923.5455,  327.4189, 1004.4805],
+        [ 189.8091, 1015.7747,  321.8594, 1089.5898],
+        [ 197.0885,  365.6725,  291.0562,  418.4700],
+        [ 206.8085,  835.3802,  326.6163,  917.3097],
+        [ 203.9030,  480.3718,  306.6493,  536.9676],
+        [ 203.8829,  421.5337,  296.3860,  475.5020],
+        [ 206.3436,  754.8898,  328.3286,  835.0873],
+        [ 179.9452,  189.5445,  273.7705,  248.6462],
+        [ 176.6490,   76.6859,  272.3762,  124.8609],
+        [ 180.0587,  130.4287,  272.2755,  183.4659],
+        [ 177.1932,   20.1194,  274.3231,   68.3488],
+        [ 185.8273,  254.0200,  273.2457,  298.0111],
+        [ 192.7946, 1094.8778,  324.0259, 1180.0748],
+        [ 204.0360,  657.3860,  327.9503,  832.6658],
+        [ 207.2146,  840.1472,  322.2901, 1017.9118],
+        [ 208.7238,  583.1716,  326.1748,  742.9175],
+        [ 203.0341,  776.0973,  322.1263,  941.5995],
+        [ 187.0685,  242.7440,  275.2049,  281.0739]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9996,
+        0.9995, 0.9994, 0.9994, 0.9993, 0.9992, 0.9990, 0.9965, 0.8872, 0.6787,
+        0.6175, 0.4048, 0.1788, 0.0568], device='cuda:0')}]
+22
+[{'boxes': tensor([[209.6898, 650.7832, 338.7622, 725.0197],
+        [214.3253, 580.1837, 335.4715, 648.3324],
+        [221.0235, 382.5636, 328.2128, 445.3590],
+        [215.7136, 514.8132, 332.6584, 573.8006],
+        [222.1218, 316.1352, 328.9051, 379.3582],
+        [210.8863, 729.0940, 342.1490, 801.5858],
+        [223.6256, 446.9754, 325.8258, 507.1335],
+        [205.5526, 808.9045, 343.0982, 888.6870],
+        [238.7425, 201.1051, 324.3035, 259.4211],
+        [229.3057, 256.8544, 329.2753, 314.4949],
+        [223.1182,  37.6783, 339.6367,  91.3456],
+        [241.6844, 139.0325, 327.4207, 194.5473],
+        [197.3643, 889.0569, 341.4698, 989.1325],
+        [236.8475,  81.2591, 328.8560, 131.7747],
+        [207.1237, 635.3894, 337.3359, 789.9030],
+        [213.4212,  10.1292, 342.5312,  47.5797],
+        [235.4033, 215.0478, 326.2574, 290.9984],
+        [231.9862, 367.5058, 315.0074, 514.8984],
+        [211.5300, 587.5341, 336.3960, 735.0229],
+        [213.9166, 492.6210, 334.0346, 642.3941]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9998, 0.9997, 0.9997, 0.9997, 0.9996, 0.9991, 0.9985,
+        0.9985, 0.9983, 0.9982, 0.9962, 0.9953, 0.4051, 0.2569, 0.1691, 0.0858,
+        0.0821, 0.0693], device='cuda:0')}]
+20
+[{'boxes': tensor([[ 177.8953,  657.5718,  305.1741,  731.8729],
+        [ 191.9071,  445.1476,  303.2783,  512.3124],
+        [ 173.2939,  735.1414,  306.3673,  814.8192],
+        [ 174.3126,  820.7084,  304.6375,  899.9133],
+        [ 193.6172,  378.1452,  305.2776,  444.2379],
+        [ 177.0161,  908.4076,  302.2878,  983.6760],
+        [ 189.6797,  514.3015,  300.7254,  579.5568],
+        [ 182.9883,  582.4239,  302.7892,  654.0117],
+        [ 210.0250,  194.0556,  303.3170,  251.7144],
+        [ 217.6071,  131.1148,  317.4154,  186.2851],
+        [ 174.9949,  992.7573,  300.2421, 1066.8666],
+        [ 208.8717,  261.2836,  296.8267,  317.5356],
+        [ 203.0130,  315.3727,  300.2538,  374.2182],
+        [ 221.4364,   82.7431,  325.6299,  123.6808],
+        [ 224.0010,   35.2756,  334.5853,   75.2210],
+        [ 168.2578, 1088.6495,  307.1976, 1167.1418],
+        [ 210.3584,  252.2099,  292.9536,  375.4652],
+        [ 178.8508,  670.1761,  301.8016,  833.1992],
+        [ 226.1882,   59.2115,  328.5651,   93.6556],
+        [ 176.5852,  798.8367,  300.4080,  959.4377],
+        [ 225.6177,   21.6074,  337.7158,   61.5730],
+        [ 170.7973, 1022.6746,  301.7738, 1200.0000],
+        [ 225.4225,   25.8527,  324.7097,  129.4730]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9997, 0.9996, 0.9996, 0.9995, 0.9995, 0.9993, 0.9992, 0.9991, 0.9976,
+        0.9970, 0.9962, 0.9953, 0.9943, 0.9933, 0.9929, 0.9730, 0.3855, 0.2082,
+        0.1677, 0.1017, 0.0874, 0.0813, 0.0537], device='cuda:0')}]
+23
+[{'boxes': tensor([[ 208.1881,  645.2710,  329.5213,  724.1813],
+        [ 220.7855,  503.8763,  331.8135,  574.4433],
+        [ 214.3416,  575.0053,  329.6364,  640.5598],
+        [ 223.8718,  372.6777,  329.6560,  436.6230],
+        [ 203.6442,  727.1757,  331.4749,  805.0140],
+        [ 192.4544,  810.5242,  320.3663,  890.0797],
+        [ 220.8007,  438.6265,  337.4049,  506.6493],
+        [ 186.7587,  901.6683,  306.3456,  979.4739],
+        [ 222.0313,  193.3020,  322.8872,  251.4951],
+        [ 220.1011,   26.3640,  323.3081,   78.8443],
+        [ 222.8871,  311.8529,  318.9693,  374.5901],
+        [ 172.8802,  989.4813,  300.5870, 1085.0605],
+        [ 224.4258,  136.2115,  321.7063,  186.4795],
+        [ 219.2038,  252.9936,  317.9131,  313.8813],
+        [ 225.1298,   85.6863,  321.4722,  133.6122],
+        [ 162.4391, 1093.0754,  299.2471, 1174.8701],
+        [ 203.9050,  648.1580,  328.1259,  804.0894],
+        [ 223.2214,   48.7139,  321.0077,   88.8877],
+        [ 179.1889, 1130.4589,  287.8199, 1198.9006]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+       device='cuda:0'), 'scores': tensor([0.9998, 0.9997, 0.9996, 0.9996, 0.9996, 0.9995, 0.9994, 0.9990, 0.9989,
+        0.9988, 0.9987, 0.9981, 0.9978, 0.9971, 0.9968, 0.9964, 0.5266, 0.0961,
+        0.0551], device='cuda:0')}]
+19
+[{'boxes': tensor([[ 184.0335,  577.7445,  299.5248,  660.9299],
+        [ 206.4386,  730.1992,  330.3297,  810.6302],
+        [ 177.6901,  513.3708,  294.8002,  585.6279],
+        [ 195.9184,  652.6608,  311.2518,  735.7637],
+        [ 156.7672,  320.2379,  262.2784,  381.6028],
+        [ 160.4437,  381.7753,  268.6714,  447.4316],
+        [ 169.9913,  449.9911,  281.2124,  515.5021],
+        [ 156.9285,  199.8989,  244.1147,  257.8877],
+        [ 216.0952,  893.2911,  343.7998,  996.4363],
+        [ 206.8540,  811.1034,  337.9919,  898.3477],
+        [ 153.6821,  259.9085,  249.9505,  317.1062],
+        [ 157.3810,   83.6940,  249.4375,  136.9044],
+        [ 160.6229,  142.5206,  246.6995,  194.8212],
+        [ 207.5490,  995.7285,  356.7793, 1083.5341],
+        [ 201.2298, 1100.9462,  357.4254, 1178.6277],
+        [ 164.6018,   18.6466,  254.0493,   75.3831],
+        [ 192.5168,  568.2404,  307.8449,  725.6046],
+        [ 162.4619,  290.0504,  265.4700,  482.6595]], device='cuda:0'), 'labels': tensor([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], device='cuda:0'), 'scores': tensor([0.9999, 0.9999, 0.9999, 0.9999, 0.9999, 0.9999, 0.9998, 0.9997, 0.9997,
+        0.9997, 0.9997, 0.9996, 0.9994, 0.9993, 0.9937, 0.9850, 0.2097, 0.0684],
+       device='cuda:0')}]
+18
+[4mReloaded modules[24m: engine, utils_rcnn, coco_eval, coco_utils, transforms, SpineDataset, ShowBbox
+imgs ['0001.png', '0002.png', '0003.png', '0004.png', '0005.png', '0006.png', '0007.png', '0008.png', '0009.png', '0010.png', '0011.png', '0012.png', '0013.png', '0014.png', '0015.png', '0016.png', '0017.png', '0018.png', '0019.png', '0020.png', '0021.png', '0022.png', '0023.png', '0024.png', '0025.png', '0026.png', '0027.png', '0028.png', '0029.png', '0030.png', '0031.png', '0032.png', '0033.png', '0034.png', '0035.png', '0036.png', '0037.png', '0038.png', '0039.png', '0040.png']
+masks ['0001.png', '0002.png', '0003.png', '0004.png', '0005.png', '0006.png', '0007.png', '0008.png', '0009.png', '0010.png', '0011.png', '0012.png', '0013.png', '0014.png', '0015.png', '0016.png', '0017.png', '0018.png', '0019.png', '0020.png', '0021.png', '0022.png', '0023.png', '0024.png', '0025.png', '0026.png', '0027.png', '0028.png', '0029.png', '0030.png', '0031.png', '0032.png', '0033.png', '0034.png', '0035.png', '0036.png', '0037.png', '0038.png', '0039.png', '0040.png']

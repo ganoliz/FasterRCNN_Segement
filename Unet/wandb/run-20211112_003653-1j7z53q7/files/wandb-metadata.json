@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.6.13",
+    "heartbeatAt": "2021-11-11T16:37:00.414070",
+    "startedAt": "2021-11-11T16:36:53.406182",
+    "docker": null,
+    "gpu": "GeForce GTX 1660",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\SpineDataset\\Unet\\train.py",
+    "codePath": "train.py",
+    "host": "DESKTOP-QCP0GAP",
+    "username": "willy",
+    "executable": "C:\\Users\\willy\\.conda\\envs\\myenv\\python.exe"
+}

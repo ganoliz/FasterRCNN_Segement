@@ -1,0 +1,348 @@
+2021-11-11 17:02:57,749 INFO    MainThread:12852 [wandb_setup.py:_flush():71] setting env: {}
+2021-11-11 17:02:57,749 INFO    MainThread:12852 [wandb_setup.py:_flush():71] setting login settings: {'anonymous': 'must'}
+2021-11-11 17:02:57,749 INFO    MainThread:12852 [wandb_init.py:_log_setup():357] Logging user logs to E:\Nick\Desktop\SpineDataset\Unet\wandb\run-20211111_170257-8j8bsanh\logs\debug.log
+2021-11-11 17:02:57,749 INFO    MainThread:12852 [wandb_init.py:_log_setup():358] Logging internal logs to E:\Nick\Desktop\SpineDataset\Unet\wandb\run-20211111_170257-8j8bsanh\logs\debug-internal.log
+2021-11-11 17:02:57,749 INFO    MainThread:12852 [wandb_init.py:_jupyter_setup():307] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001C87A90EA20>
+2021-11-11 17:02:57,750 INFO    MainThread:12852 [wandb_init.py:init():390] calling init triggers
+2021-11-11 17:02:57,750 INFO    MainThread:12852 [wandb_init.py:init():397] wandb.init called with sweep_config: {}
+config: {}
+2021-11-11 17:02:57,750 INFO    MainThread:12852 [wandb_init.py:init():412] re-initializing run, found existing run on stack: 14ik0gtx
+2021-11-11 17:02:57,750 INFO    MainThread:12852 [wandb_run.py:finish():1347] finishing run anony-moose-154664/U-Net/14ik0gtx
+2021-11-11 17:02:57,751 INFO    MainThread:12852 [wandb_run.py:_atexit_cleanup():1663] got exitcode: 0
+2021-11-11 17:02:57,751 INFO    MainThread:12852 [wandb_run.py:_restore():1635] restore
+2021-11-11 17:02:58,226 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 545
+}
+
+2021-11-11 17:02:58,579 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 545
+}
+
+2021-11-11 17:02:59,076 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 769178
+}
+
+2021-11-11 17:02:59,191 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 769326
+}
+
+2021-11-11 17:02:59,300 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 769326
+}
+
+2021-11-11 17:02:59,407 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 111211
+  total_bytes: 769326
+}
+
+2021-11-11 17:02:59,515 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 769326
+  total_bytes: 769326
+}
+
+2021-11-11 17:02:59,623 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 769326
+  total_bytes: 769326
+}
+
+2021-11-11 17:02:59,730 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 769326
+  total_bytes: 769326
+}
+
+2021-11-11 17:02:59,840 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 769326
+  total_bytes: 769326
+}
+
+2021-11-11 17:02:59,949 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 769326
+  total_bytes: 769326
+}
+
+2021-11-11 17:03:00,058 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 769326
+  total_bytes: 769326
+}
+
+2021-11-11 17:03:00,167 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 769326
+  total_bytes: 769326
+}
+
+2021-11-11 17:03:00,932 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 769326
+  total_bytes: 769326
+}
+
+2021-11-11 17:03:01,541 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 769326
+  total_bytes: 769326
+}
+local_info {
+}
+
+2021-11-11 17:03:02,682 INFO    MainThread:12852 [wandb_run.py:_append_history():2011] rendering history
+2021-11-11 17:03:02,683 INFO    MainThread:12852 [wandb_run.py:_append_summary():1966] rendering summary
+2021-11-11 17:03:02,683 INFO    MainThread:12852 [wandb_run.py:_append_files():2061] logging synced files
+2021-11-11 17:03:02,686 INFO    MainThread:12852 [wandb_init.py:init():435] starting backend
+2021-11-11 17:03:02,686 INFO    MainThread:12852 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2021-11-11 17:03:02,689 INFO    MainThread:12852 [backend.py:ensure_launched():199] starting backend process...
+2021-11-11 17:03:02,846 INFO    MainThread:12852 [backend.py:ensure_launched():205] started backend process with pid: 4460
+2021-11-11 17:03:02,847 INFO    MainThread:12852 [wandb_init.py:init():444] backend started and connected
+2021-11-11 17:03:02,847 INFO    MainThread:12852 [wandb_run.py:_label_probe_notebook():866] probe notebook
+2021-11-11 17:03:02,847 INFO    MainThread:12852 [wandb_run.py:_label_probe_notebook():876] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-11-11 17:03:02,847 INFO    MainThread:12852 [wandb_init.py:init():503] updated telemetry
+2021-11-11 17:03:02,849 INFO    MainThread:12852 [wandb_init.py:init():533] communicating current version
+2021-11-11 17:03:05,608 INFO    MainThread:12852 [wandb_init.py:init():538] got version response 
+2021-11-11 17:03:05,608 INFO    MainThread:12852 [wandb_init.py:init():548] communicating run to backend with 30 second timeout
+2021-11-11 17:03:06,128 INFO    MainThread:12852 [wandb_init.py:init():576] starting run threads in backend
+2021-11-11 17:03:08,806 WARNING MainThread:12852 [wandb_init.py:init():891] interrupted
+Traceback (most recent call last):
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\wandb_init.py", line 870, in init
+    run = wi.init()
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\wandb_init.py", line 581, in init
+    _ = backend.interface.communicate_run_start(run_obj)
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\interface\interface.py", line 216, in communicate_run_start
+    result = self._communicate_run_start(run_start)
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\interface\interface_queue.py", line 446, in _communicate_run_start
+    result = self._communicate(rec)
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\interface\interface_queue.py", line 232, in _communicate
+    return self._communicate_async(rec, local=local).get(timeout=timeout)
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\interface\router.py", line 32, in get
+    is_set = self._object_ready.wait(timeout)
+  File "E:\Miniconda3\envs\pytorch\lib\threading.py", line 551, in wait
+    signaled = self._cond.wait(timeout)
+  File "E:\Miniconda3\envs\pytorch\lib\threading.py", line 299, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+2021-11-11 17:03:18,028 INFO    MainThread:12852 [wandb_settings.py:_apply_source_login():780] setting login settings: {'anonymous': 'must'}
+2021-11-11 17:03:18,036 INFO    MainThread:12852 [wandb_setup.py:_flush():71] setting env: {}
+2021-11-11 17:03:18,036 INFO    MainThread:12852 [wandb_setup.py:_flush():71] setting login settings: {'anonymous': 'must'}
+2021-11-11 17:03:18,036 INFO    MainThread:12852 [wandb_init.py:_log_setup():357] Logging user logs to E:\Nick\Desktop\SpineDataset\Unet\wandb\run-20211111_170318-1v2wl12d\logs\debug.log
+2021-11-11 17:03:18,036 INFO    MainThread:12852 [wandb_init.py:_log_setup():358] Logging internal logs to E:\Nick\Desktop\SpineDataset\Unet\wandb\run-20211111_170318-1v2wl12d\logs\debug-internal.log
+2021-11-11 17:03:18,036 INFO    MainThread:12852 [wandb_init.py:init():390] calling init triggers
+2021-11-11 17:03:18,036 INFO    MainThread:12852 [wandb_init.py:init():397] wandb.init called with sweep_config: {}
+config: {}
+2021-11-11 17:03:18,037 INFO    MainThread:12852 [wandb_init.py:init():435] starting backend
+2021-11-11 17:03:18,037 INFO    MainThread:12852 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2021-11-11 17:03:18,040 INFO    MainThread:12852 [backend.py:ensure_launched():199] starting backend process...
+2021-11-11 17:03:18,162 INFO    MainThread:12852 [backend.py:ensure_launched():205] started backend process with pid: 3832
+2021-11-11 17:03:18,163 INFO    MainThread:12852 [wandb_init.py:init():444] backend started and connected
+2021-11-11 17:03:18,164 INFO    MainThread:12852 [wandb_run.py:_label_probe_notebook():866] probe notebook
+2021-11-11 17:03:18,164 INFO    MainThread:12852 [wandb_run.py:_label_probe_notebook():876] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-11-11 17:03:18,164 INFO    MainThread:12852 [wandb_init.py:init():503] updated telemetry
+2021-11-11 17:03:18,167 INFO    MainThread:12852 [wandb_init.py:init():533] communicating current version
+2021-11-11 17:03:20,889 INFO    MainThread:12852 [wandb_init.py:init():538] got version response 
+2021-11-11 17:03:20,889 INFO    MainThread:12852 [wandb_init.py:init():548] communicating run to backend with 30 second timeout
+2021-11-11 17:03:21,512 INFO    MainThread:12852 [wandb_init.py:init():576] starting run threads in backend
+2021-11-11 17:03:24,177 INFO    MainThread:12852 [wandb_run.py:_console_start():1693] atexit reg
+2021-11-11 17:03:24,179 INFO    MainThread:12852 [wandb_run.py:_redirect():1567] redirect: SettingsConsole.WRAP
+2021-11-11 17:03:24,179 INFO    MainThread:12852 [wandb_run.py:_redirect():1604] Wrapping output streams.
+2021-11-11 17:03:24,179 INFO    MainThread:12852 [wandb_run.py:_redirect():1628] Redirects installed.
+2021-11-11 17:03:24,179 INFO    MainThread:12852 [wandb_init.py:init():603] run started, returning control to user process
+2021-11-11 17:03:24,180 INFO    MainThread:12852 [wandb_run.py:_config_callback():911] config_cb None None {'epochs': 5, 'batch_size': 1, 'learning_rate': 0.001, 'val_percent': 0.1, 'save_checkpoint': True, 'img_scale': 0.5, 'amp': True}
+2021-11-11 17:09:36,876 INFO    MainThread:12852 [wandb_setup.py:_flush():71] setting env: {}
+2021-11-11 17:09:36,876 INFO    MainThread:12852 [wandb_setup.py:_flush():71] setting login settings: {'anonymous': 'must'}
+2021-11-11 17:09:36,876 INFO    MainThread:12852 [wandb_init.py:_log_setup():357] Logging user logs to E:\Nick\Desktop\SpineDataset\Unet\wandb\run-20211111_170936-3w2d91j7\logs\debug.log
+2021-11-11 17:09:36,877 INFO    MainThread:12852 [wandb_init.py:_log_setup():358] Logging internal logs to E:\Nick\Desktop\SpineDataset\Unet\wandb\run-20211111_170936-3w2d91j7\logs\debug-internal.log
+2021-11-11 17:09:36,877 INFO    MainThread:12852 [wandb_init.py:init():390] calling init triggers
+2021-11-11 17:09:36,877 INFO    MainThread:12852 [wandb_init.py:init():397] wandb.init called with sweep_config: {}
+config: {}
+2021-11-11 17:09:36,878 INFO    MainThread:12852 [wandb_init.py:init():412] re-initializing run, found existing run on stack: 1v2wl12d
+2021-11-11 17:09:36,878 INFO    MainThread:12852 [wandb_run.py:finish():1347] finishing run anony-moose-154664/U-Net/1v2wl12d
+2021-11-11 17:09:36,878 INFO    MainThread:12852 [wandb_run.py:_atexit_cleanup():1663] got exitcode: 0
+2021-11-11 17:09:36,878 INFO    MainThread:12852 [wandb_run.py:_restore():1635] restore
+2021-11-11 17:09:37,372 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 545
+}
+
+2021-11-11 17:09:37,687 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 545
+}
+
+2021-11-11 17:09:38,320 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 70467
+}
+
+2021-11-11 17:09:38,427 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 70610
+}
+
+2021-11-11 17:09:38,537 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 545
+  total_bytes: 70610
+}
+
+2021-11-11 17:09:38,646 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 69824
+  total_bytes: 70610
+}
+
+2021-11-11 17:09:38,754 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 70610
+  total_bytes: 70610
+}
+
+2021-11-11 17:09:38,863 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 70610
+  total_bytes: 70610
+}
+
+2021-11-11 17:09:38,972 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 70610
+  total_bytes: 70610
+}
+
+2021-11-11 17:09:39,081 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 70610
+  total_bytes: 70610
+}
+
+2021-11-11 17:09:39,190 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 70610
+  total_bytes: 70610
+}
+
+2021-11-11 17:09:39,646 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 70610
+  total_bytes: 70610
+}
+
+2021-11-11 17:09:40,240 INFO    MainThread:12852 [wandb_run.py:_wait_for_finish():1793] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 70610
+  total_bytes: 70610
+}
+local_info {
+}
+
+2021-11-11 17:09:41,406 INFO    MainThread:12852 [wandb_run.py:_append_history():2011] rendering history
+2021-11-11 17:09:41,407 INFO    MainThread:12852 [wandb_run.py:_append_summary():1966] rendering summary
+2021-11-11 17:09:41,407 INFO    MainThread:12852 [wandb_run.py:_append_files():2061] logging synced files
+2021-11-11 17:09:41,410 INFO    MainThread:12852 [wandb_init.py:init():435] starting backend
+2021-11-11 17:09:41,410 INFO    MainThread:12852 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2021-11-11 17:09:41,413 INFO    MainThread:12852 [backend.py:ensure_launched():199] starting backend process...
+2021-11-11 17:09:41,545 INFO    MainThread:12852 [backend.py:ensure_launched():205] started backend process with pid: 10040
+2021-11-11 17:09:41,545 INFO    MainThread:12852 [wandb_init.py:init():444] backend started and connected
+2021-11-11 17:09:41,546 INFO    MainThread:12852 [wandb_run.py:_label_probe_notebook():866] probe notebook
+2021-11-11 17:09:41,546 INFO    MainThread:12852 [wandb_run.py:_label_probe_notebook():876] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2021-11-11 17:09:41,546 INFO    MainThread:12852 [wandb_init.py:init():503] updated telemetry
+2021-11-11 17:09:41,548 INFO    MainThread:12852 [wandb_init.py:init():533] communicating current version
+2021-11-11 17:09:44,396 WARNING MainThread:12852 [wandb_init.py:init():891] interrupted
+Traceback (most recent call last):
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\wandb_init.py", line 870, in init
+    run = wi.init()
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\wandb_init.py", line 535, in init
+    current_version=wandb.__version__
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\interface\interface.py", line 87, in communicate_check_version
+    ret = self._communicate_check_version(check_version)
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\interface\interface_queue.py", line 436, in _communicate_check_version
+    result = self._communicate(rec)
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\interface\interface_queue.py", line 232, in _communicate
+    return self._communicate_async(rec, local=local).get(timeout=timeout)
+  File "E:\Miniconda3\envs\pytorch\lib\site-packages\wandb\sdk\interface\router.py", line 32, in get
+    is_set = self._object_ready.wait(timeout)
+  File "E:\Miniconda3\envs\pytorch\lib\threading.py", line 551, in wait
+    signaled = self._cond.wait(timeout)
+  File "E:\Miniconda3\envs\pytorch\lib\threading.py", line 299, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
