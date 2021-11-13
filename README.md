@@ -11,7 +11,9 @@ FasterRCNN need torchvision reference tools  at https://github.com/pytorch/visio
 
 Files Directory need modify manually at lots of .py code.
 
+There are lots of problem need solve. As you can see train_example(FasterRCNN) batch size is 1 and CAN'T be 16,32. 
 
+Because  bounding box number is different in lots of Image, the Misaligned of labels will cause torch.stack error .
 
 
 
