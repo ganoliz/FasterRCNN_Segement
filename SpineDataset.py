@@ -41,7 +41,7 @@ def read_content(xml_file:str): #https://stackoverflow.com/questions/53317592/re
         list_with_single_boxes=[xmin,ymin,xmax,ymax]
         label=boxes.find('name').text
         if label=='spine':
-            #print(label)
+
             label=torch.tensor([1], dtype=torch.long)
         else :
             label=torch.tensor([0], dtype=torch.long)
@@ -103,7 +103,7 @@ class SpineDataset(torch.utils.data.Dataset):
         
     def __len__(self):
         return len(self.imgs)
-        #dom=parse(bbox_xml_path) #open .xml file
+        
         
 
 

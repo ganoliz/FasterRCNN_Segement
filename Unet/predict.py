@@ -53,14 +53,7 @@ def predict_img(net,
         return (full_mask>out_threshold).numpy()
     else:
         return F.one_hot(full_mask.argmax(dim=0),net.n_classes).permute(2,0,1).numpy()
-'''    
-def get_output_filenames(args):
-    def _generate_name(fn):
-        split=os.path.splitext(fn)
-        return f'{split[0]}_OUT{[1]}'
-    
-    return args.output or list(map(_generate_name,args.input))
-'''
+
 def mask_to_image(mask:np.ndarray):
     
     if mask.ndim==2:
@@ -92,7 +85,7 @@ def plot_img_and_mask(img, mask):
 
 
 if __name__=='__main__':
-    #args=get_args()
+   
 
     
     net=UNet(n_channels=3,n_classes=1)
@@ -121,14 +114,12 @@ if __name__=='__main__':
     mask=predict_img(net=net,full_img=img,scale_factor=scale,
                          out_threshold=threshold,device=device)
         
-        #if not args.no_save:
+    
     out_filename=out_files
     result=mask_to_image(mask)
     result.save('C:/SpineDataset/Unet/predict/'+out_filename)
-    #logging.info(f'Mask save to {out_filename}')
             
-        #if args.viz:
-    #logging.info(f'Visualizing results for image {filename},close to continue...')
+
     plot_img_and_mask(img,mask)
             
             
